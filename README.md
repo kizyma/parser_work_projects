@@ -13,4 +13,7 @@ v.0.2 changes
 TO DO:
 Add validation for the new languages
 ----------------------------------
+v.0.2.1 changes
+- added support of German, Spanish and French language
+- minor speed improvements (in the previous version, there was an issue with time-out and each URL took additional second to be processed)
 
